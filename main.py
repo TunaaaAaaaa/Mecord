@@ -10,7 +10,7 @@ load_dotenv()
 
 # 获取API密钥和URL
 API_KEY = os.getenv("API_KEY")
-# API_KEY = "sk-ogsqcdoxguwiangpbimdsnqxrmcrxordtnenzjdzyqyoqdmy"
+
 API_URL = os.getenv("API_URL")
 
 # 设置页面配置
